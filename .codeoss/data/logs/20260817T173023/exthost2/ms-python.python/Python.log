@@ -1,0 +1,18 @@
+2026-08-17 17:32:02.276 [warning] Dir "/home/student_02_7202a5dc2a42/.pixi/envs" is not watchable (directory does not exist)
+2026-08-17 17:32:02.855 [info] Starting Environment refresh
+2026-08-17 17:32:03.104 [info] > hatch env show --json
+2026-08-17 17:32:03.105 [info] cwd: .
+2026-08-17 17:32:03.159 [info] > conda info --json
+2026-08-17 17:32:03.171 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-08-17 17:32:03.222 [info] Python interpreter path: /bin/python
+2026-08-17 17:32:03.360 [info] Starting Environment refresh
+2026-08-17 17:32:03.466 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-08-17 17:32:03.486 [info] Environments refresh paths discovered: 634 milliseconds
+2026-08-17 17:32:03.504 [info] Environments refresh paths discovered: 144 milliseconds
+2026-08-17 17:32:03.777 [info] Environments refresh finished (event): 924 milliseconds
+2026-08-17 17:32:03.779 [info] Environments refresh finished (event): 417 milliseconds
+2026-08-17 17:32:03.796 [info] Environment refresh took 946 milliseconds
+2026-08-17 17:32:03.805 [info] Environment refresh took 445 milliseconds
+2026-08-17 17:32:03.842 [info] > pyenv which python
+2026-08-17 17:32:03.843 [info] cwd: .
+2026-08-17 17:32:09.655 [info] Starting Jedi language server for student_02_7202a5dc2a42.

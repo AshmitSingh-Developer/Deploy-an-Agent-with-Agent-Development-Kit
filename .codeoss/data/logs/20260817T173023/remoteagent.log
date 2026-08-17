@@ -1,0 +1,191 @@
+2026-08-17 17:30:24.050 [info] 
+
+
+
+
+2026-08-17 17:30:24.064 [info] [AgentHostChannel] Registered unavailable IPC channel 'agentHostProxy': no --agent-host-bridge-port / --agent-host-bridge-path set.
+2026-08-17 17:30:24.074 [info] Extension host agent started.
+2026-08-17 17:30:24.106 [info] Started initializing default profile extensions in extensions installation folder. file:///home/student_02_7202a5dc2a42/.codeoss/extensions
+2026-08-17 17:30:24.386 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/student_02_7202a5dc2a42/.codeoss/extensions
+2026-08-17 17:30:26.465 [info] [127.0.0.1][188bea1f][ManagementConnection] New connection established.
+2026-08-17 17:30:26.494 [info] [127.0.0.1][e9264a9d][ExtensionHostConnection] New connection established.
+2026-08-17 17:30:29.182 [info] [127.0.0.1][e9264a9d][ExtensionHostConnection] <2184> Launched Extension Host Process.
+2026-08-17 17:30:30.135 [info] [127.0.0.1][e9264a9d][ExtensionHostConnection] <2184> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-08-17 17:31:43.475 [info] [127.0.0.1][188bea1f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2026-08-17 17:31:44.368 [info] [127.0.0.1][370641a6][ManagementConnection] New connection established.
+2026-08-17 17:31:44.482 [info] [127.0.0.1][a7943e1a][ExtensionHostConnection] New connection established.
+2026-08-17 17:31:44.502 [info] [127.0.0.1][a7943e1a][ExtensionHostConnection] <2883> Launched Extension Host Process.
+2026-08-17 17:31:45.287 [info] [127.0.0.1][e9264a9d][ExtensionHostConnection] <2184> Extension Host Process exited with code: 0, signal: null.
+2026-08-17 17:31:46.860 [info] [127.0.0.1][a7943e1a][ExtensionHostConnection] <2883> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-08-17 17:51:56.898 [info] [127.0.0.1][04e538b9][ManagementConnection] New connection established.
+2026-08-17 17:51:56.988 [info] [127.0.0.1][f8ea3ed0][ExtensionHostConnection] New connection established.
+2026-08-17 17:51:56.996 [info] [127.0.0.1][f8ea3ed0][ExtensionHostConnection] <4483> Launched Extension Host Process.
+2026-08-17 17:51:58.704 [info] [127.0.0.1][f8ea3ed0][ExtensionHostConnection] <4483> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+
+2026-08-17 17:52:23.586 [warning] RequestStore#acceptReply was called without receiving a matching request 89
+2026-08-17 17:52:23.591 [warning] RequestStore#acceptReply was called without receiving a matching request 90
+2026-08-17 17:52:23.598 [warning] RequestStore#acceptReply was called without receiving a matching request 91
+2026-08-17 17:52:23.598 [warning] RequestStore#acceptReply was called without receiving a matching request 92
+2026-08-17 17:52:23.598 [warning] RequestStore#acceptReply was called without receiving a matching request 93
+2026-08-17 17:52:23.598 [warning] RequestStore#acceptReply was called without receiving a matching request 94
+2026-08-17 17:52:23.598 [warning] RequestStore#acceptReply was called without receiving a matching request 95
+2026-08-17 17:52:23.598 [warning] RequestStore#acceptReply was called without receiving a matching request 96
+2026-08-17 17:52:23.598 [warning] RequestStore#acceptReply was called without receiving a matching request 97
+2026-08-17 17:52:23.604 [warning] RequestStore#acceptReply was called without receiving a matching request 98
+2026-08-17 17:52:23.605 [warning] RequestStore#acceptReply was called without receiving a matching request 99
+2026-08-17 17:52:23.605 [warning] RequestStore#acceptReply was called without receiving a matching request 100
+2026-08-17 17:52:23.605 [warning] RequestStore#acceptReply was called without receiving a matching request 101
+2026-08-17 17:52:23.605 [warning] RequestStore#acceptReply was called without receiving a matching request 102
+2026-08-17 17:52:23.605 [warning] RequestStore#acceptReply was called without receiving a matching request 103
+2026-08-17 17:52:23.605 [warning] RequestStore#acceptReply was called without receiving a matching request 104
+2026-08-17 17:52:23.605 [warning] RequestStore#acceptReply was called without receiving a matching request 105
+2026-08-17 17:52:23.605 [warning] RequestStore#acceptReply was called without receiving a matching request 106
+2026-08-17 17:52:23.605 [warning] RequestStore#acceptReply was called without receiving a matching request 107
+2026-08-17 17:52:23.605 [warning] RequestStore#acceptReply was called without receiving a matching request 108
+2026-08-17 17:52:23.605 [warning] RequestStore#acceptReply was called without receiving a matching request 109
+2026-08-17 17:52:23.605 [warning] RequestStore#acceptReply was called without receiving a matching request 110
+2026-08-17 17:52:23.605 [warning] RequestStore#acceptReply was called without receiving a matching request 111
+2026-08-17 17:52:23.606 [warning] RequestStore#acceptReply was called without receiving a matching request 112
+2026-08-17 17:52:23.606 [warning] RequestStore#acceptReply was called without receiving a matching request 113
+2026-08-17 17:52:23.606 [warning] RequestStore#acceptReply was called without receiving a matching request 114
+2026-08-17 17:52:23.606 [warning] RequestStore#acceptReply was called without receiving a matching request 115
+2026-08-17 17:52:23.606 [warning] RequestStore#acceptReply was called without receiving a matching request 116
+2026-08-17 17:52:23.606 [warning] RequestStore#acceptReply was called without receiving a matching request 117
+2026-08-17 17:52:23.606 [warning] RequestStore#acceptReply was called without receiving a matching request 118
+2026-08-17 17:52:23.606 [warning] RequestStore#acceptReply was called without receiving a matching request 119
+2026-08-17 17:52:23.606 [warning] RequestStore#acceptReply was called without receiving a matching request 120
+2026-08-17 17:52:23.606 [warning] RequestStore#acceptReply was called without receiving a matching request 121
+2026-08-17 17:52:23.606 [warning] RequestStore#acceptReply was called without receiving a matching request 122
+2026-08-17 17:52:23.606 [warning] RequestStore#acceptReply was called without receiving a matching request 123
+2026-08-17 17:52:23.606 [warning] RequestStore#acceptReply was called without receiving a matching request 124
+2026-08-17 17:52:23.606 [warning] RequestStore#acceptReply was called without receiving a matching request 125
+2026-08-17 17:52:23.613 [warning] RequestStore#acceptReply was called without receiving a matching request 126
+2026-08-17 17:52:23.614 [warning] RequestStore#acceptReply was called without receiving a matching request 127
+2026-08-17 17:52:23.614 [warning] RequestStore#acceptReply was called without receiving a matching request 128
+2026-08-17 17:52:23.614 [warning] RequestStore#acceptReply was called without receiving a matching request 129
+2026-08-17 17:52:23.614 [warning] RequestStore#acceptReply was called without receiving a matching request 130
+2026-08-17 17:52:23.614 [warning] RequestStore#acceptReply was called without receiving a matching request 131
+2026-08-17 17:52:23.614 [warning] RequestStore#acceptReply was called without receiving a matching request 132
+2026-08-17 17:52:23.614 [warning] RequestStore#acceptReply was called without receiving a matching request 133
+2026-08-17 17:52:23.614 [warning] RequestStore#acceptReply was called without receiving a matching request 134
+2026-08-17 17:52:23.614 [warning] RequestStore#acceptReply was called without receiving a matching request 135
+2026-08-17 17:52:23.614 [warning] RequestStore#acceptReply was called without receiving a matching request 136
+2026-08-17 17:52:23.614 [warning] RequestStore#acceptReply was called without receiving a matching request 137
+2026-08-17 17:52:23.614 [warning] RequestStore#acceptReply was called without receiving a matching request 138
+2026-08-17 17:52:23.616 [warning] RequestStore#acceptReply was called without receiving a matching request 139
+2026-08-17 17:52:23.617 [warning] RequestStore#acceptReply was called without receiving a matching request 140
+2026-08-17 17:52:23.617 [warning] RequestStore#acceptReply was called without receiving a matching request 141
+2026-08-17 17:52:23.617 [warning] RequestStore#acceptReply was called without receiving a matching request 142
+2026-08-17 17:52:23.617 [warning] RequestStore#acceptReply was called without receiving a matching request 143
+2026-08-17 17:52:23.617 [warning] RequestStore#acceptReply was called without receiving a matching request 144
+2026-08-17 17:52:23.617 [warning] RequestStore#acceptReply was called without receiving a matching request 145
+2026-08-17 17:52:23.617 [warning] RequestStore#acceptReply was called without receiving a matching request 146
+2026-08-17 17:52:23.617 [warning] RequestStore#acceptReply was called without receiving a matching request 147
+2026-08-17 17:52:23.617 [warning] RequestStore#acceptReply was called without receiving a matching request 148
+2026-08-17 17:52:23.617 [warning] RequestStore#acceptReply was called without receiving a matching request 149
+2026-08-17 17:52:23.617 [warning] RequestStore#acceptReply was called without receiving a matching request 150
+2026-08-17 17:52:23.617 [warning] RequestStore#acceptReply was called without receiving a matching request 151
+2026-08-17 17:52:23.617 [warning] RequestStore#acceptReply was called without receiving a matching request 152
+2026-08-17 17:52:23.621 [warning] RequestStore#acceptReply was called without receiving a matching request 153
+2026-08-17 17:52:23.621 [warning] RequestStore#acceptReply was called without receiving a matching request 154
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 155
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 156
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 157
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 158
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 159
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 160
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 161
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 162
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 163
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 164
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 165
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 166
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 167
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 168
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 169
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 170
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 171
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 172
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 173
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 174
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 175
+2026-08-17 17:52:23.622 [warning] RequestStore#acceptReply was called without receiving a matching request 176
+2026-08-17 17:52:23.623 [warning] RequestStore#acceptReply was called without receiving a matching request 177
+2026-08-17 17:52:23.623 [warning] RequestStore#acceptReply was called without receiving a matching request 178
+2026-08-17 17:52:23.623 [warning] RequestStore#acceptReply was called without receiving a matching request 179
+2026-08-17 17:52:23.623 [warning] RequestStore#acceptReply was called without receiving a matching request 180
+2026-08-17 17:52:23.623 [warning] RequestStore#acceptReply was called without receiving a matching request 181
+2026-08-17 17:52:23.623 [warning] RequestStore#acceptReply was called without receiving a matching request 182
+2026-08-17 17:52:23.623 [warning] RequestStore#acceptReply was called without receiving a matching request 183
+2026-08-17 17:52:23.623 [warning] RequestStore#acceptReply was called without receiving a matching request 184
+2026-08-17 17:52:23.629 [warning] RequestStore#acceptReply was called without receiving a matching request 185
+2026-08-17 17:52:23.630 [warning] RequestStore#acceptReply was called without receiving a matching request 186
+2026-08-17 17:52:23.630 [warning] RequestStore#acceptReply was called without receiving a matching request 187
+2026-08-17 17:52:23.630 [warning] RequestStore#acceptReply was called without receiving a matching request 188
+2026-08-17 17:52:23.630 [warning] RequestStore#acceptReply was called without receiving a matching request 189
+2026-08-17 17:52:23.630 [warning] RequestStore#acceptReply was called without receiving a matching request 190
+2026-08-17 17:52:23.630 [warning] RequestStore#acceptReply was called without receiving a matching request 191
+2026-08-17 17:52:23.630 [warning] RequestStore#acceptReply was called without receiving a matching request 192
+2026-08-17 17:52:23.630 [warning] RequestStore#acceptReply was called without receiving a matching request 193
+2026-08-17 17:52:23.630 [warning] RequestStore#acceptReply was called without receiving a matching request 194
+2026-08-17 17:52:23.630 [warning] RequestStore#acceptReply was called without receiving a matching request 195
+2026-08-17 17:52:23.630 [warning] RequestStore#acceptReply was called without receiving a matching request 196
+2026-08-17 17:52:23.632 [warning] RequestStore#acceptReply was called without receiving a matching request 197
+2026-08-17 17:52:23.632 [warning] RequestStore#acceptReply was called without receiving a matching request 198
+2026-08-17 17:52:23.633 [warning] RequestStore#acceptReply was called without receiving a matching request 199
+2026-08-17 17:52:23.633 [warning] RequestStore#acceptReply was called without receiving a matching request 200
+2026-08-17 17:52:23.633 [warning] RequestStore#acceptReply was called without receiving a matching request 201
+2026-08-17 17:52:23.633 [warning] RequestStore#acceptReply was called without receiving a matching request 202
+2026-08-17 17:52:23.633 [warning] RequestStore#acceptReply was called without receiving a matching request 203
+2026-08-17 17:52:23.633 [warning] RequestStore#acceptReply was called without receiving a matching request 204
+2026-08-17 17:52:23.633 [warning] RequestStore#acceptReply was called without receiving a matching request 205
+2026-08-17 17:52:23.633 [warning] RequestStore#acceptReply was called without receiving a matching request 206
+2026-08-17 17:52:23.637 [warning] RequestStore#acceptReply was called without receiving a matching request 207
+2026-08-17 17:52:23.637 [warning] RequestStore#acceptReply was called without receiving a matching request 208
+2026-08-17 17:52:23.637 [warning] RequestStore#acceptReply was called without receiving a matching request 209
+2026-08-17 17:52:23.637 [warning] RequestStore#acceptReply was called without receiving a matching request 210
+2026-08-17 17:52:23.637 [warning] RequestStore#acceptReply was called without receiving a matching request 211
+2026-08-17 17:52:23.637 [warning] RequestStore#acceptReply was called without receiving a matching request 212
+2026-08-17 17:52:23.637 [warning] RequestStore#acceptReply was called without receiving a matching request 213
+2026-08-17 17:52:23.637 [warning] RequestStore#acceptReply was called without receiving a matching request 214
+2026-08-17 17:52:23.637 [warning] RequestStore#acceptReply was called without receiving a matching request 215
+2026-08-17 17:52:23.637 [warning] RequestStore#acceptReply was called without receiving a matching request 216
+2026-08-17 17:52:23.637 [warning] RequestStore#acceptReply was called without receiving a matching request 217
+2026-08-17 17:52:23.638 [warning] RequestStore#acceptReply was called without receiving a matching request 218
+2026-08-17 17:52:23.638 [warning] RequestStore#acceptReply was called without receiving a matching request 219
+2026-08-17 17:52:23.638 [warning] RequestStore#acceptReply was called without receiving a matching request 220
+2026-08-17 17:52:23.638 [warning] RequestStore#acceptReply was called without receiving a matching request 221
+2026-08-17 17:52:23.638 [warning] RequestStore#acceptReply was called without receiving a matching request 222
+2026-08-17 17:52:23.638 [warning] RequestStore#acceptReply was called without receiving a matching request 223
+2026-08-17 17:52:23.638 [warning] RequestStore#acceptReply was called without receiving a matching request 224
+2026-08-17 17:52:23.638 [warning] RequestStore#acceptReply was called without receiving a matching request 225
+2026-08-17 17:52:23.638 [warning] RequestStore#acceptReply was called without receiving a matching request 226
+2026-08-17 17:52:23.638 [warning] RequestStore#acceptReply was called without receiving a matching request 227
+2026-08-17 17:52:23.638 [warning] RequestStore#acceptReply was called without receiving a matching request 228
+2026-08-17 17:52:23.638 [warning] RequestStore#acceptReply was called without receiving a matching request 229
+2026-08-17 17:52:23.638 [warning] RequestStore#acceptReply was called without receiving a matching request 230
+2026-08-17 17:52:23.644 [warning] RequestStore#acceptReply was called without receiving a matching request 231
+2026-08-17 17:52:24.101 [warning] RequestStore#acceptReply was called without receiving a matching request 232
+2026-08-17 17:52:24.101 [warning] RequestStore#acceptReply was called without receiving a matching request 233
+2026-08-17 17:52:24.101 [warning] RequestStore#acceptReply was called without receiving a matching request 234
+2026-08-17 17:52:24.101 [warning] RequestStore#acceptReply was called without receiving a matching request 235
+2026-08-17 17:52:24.101 [warning] RequestStore#acceptReply was called without receiving a matching request 236
+2026-08-17 17:52:24.103 [warning] RequestStore#acceptReply was called without receiving a matching request 237
+2026-08-17 17:52:24.103 [warning] RequestStore#acceptReply was called without receiving a matching request 238
+2026-08-17 17:52:24.104 [warning] RequestStore#acceptReply was called without receiving a matching request 239
+2026-08-17 17:52:24.104 [warning] RequestStore#acceptReply was called without receiving a matching request 240
+2026-08-17 17:52:24.104 [warning] RequestStore#acceptReply was called without receiving a matching request 241
+2026-08-17 17:52:24.104 [warning] RequestStore#acceptReply was called without receiving a matching request 242
+2026-08-17 17:52:27.128 [warning] RequestStore#acceptReply was called without receiving a matching request 243
+2026-08-17 17:52:27.128 [warning] RequestStore#acceptReply was called without receiving a matching request 244
+2026-08-17 17:52:27.131 [warning] RequestStore#acceptReply was called without receiving a matching request 245
+2026-08-17 17:52:27.131 [warning] RequestStore#acceptReply was called without receiving a matching request 246
+2026-08-17 17:52:27.133 [warning] RequestStore#acceptReply was called without receiving a matching request 247
+2026-08-17 17:52:27.136 [warning] RequestStore#acceptReply was called without receiving a matching request 248
+2026-08-17 17:52:27.136 [warning] RequestStore#acceptReply was called without receiving a matching request 249
+2026-08-17 17:52:27.136 [warning] RequestStore#acceptReply was called without receiving a matching request 250
+2026-08-17 17:52:27.136 [warning] RequestStore#acceptReply was called without receiving a matching request 251
+2026-08-17 17:52:27.136 [warning] RequestStore#acceptReply was called without receiving a matching request 252
+2026-08-17 17:52:27.136 [warning] RequestStore#acceptReply was called without receiving a matching request 253

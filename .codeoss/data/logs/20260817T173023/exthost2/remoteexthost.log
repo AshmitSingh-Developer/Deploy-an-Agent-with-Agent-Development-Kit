@@ -1,0 +1,22 @@
+2026-08-17 17:31:48.224 [info] Extension host with pid 2883 started
+2026-08-17 17:31:48.258 [info] Lock '/home/student_02_7202a5dc2a42/.codeoss/data/User/workspaceStorage/-33a7ff0c/vscode.lock': Lock acquired.
+2026-08-17 17:31:48.403 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-08-17 17:31:48.405 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-08-17 17:31:48.632 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-08-17 17:31:48.721 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-08-17 17:31:48.722 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-08-17 17:31:49.126 [info] Eager extensions activated
+2026-08-17 17:31:49.127 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2026-08-17 17:31:49.128 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2026-08-17 17:31:49.129 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onStartupFinished', root cause: googlecloudtools.cloudcode
+2026-08-17 17:31:49.129 [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onStartupFinished', root cause: googlecloudtools.cloudcode
+2026-08-17 17:31:49.130 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-08-17 17:31:49.130 [info] ExtensionService#_doActivateExtension google.gemini-cli-vscode-ide-companion, startup: false, activationEvent: 'onStartupFinished'
+2026-08-17 17:31:49.131 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-08-17 17:31:51.458 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+2026-08-17 17:31:51.916 [info] ExtensionService#_doActivateExtension googlecloudtools.datacloud, startup: false, activationEvent: 'onStartupFinished', root cause: googlecloudtools.cloudcode
+2026-08-17 17:31:53.371 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-17 17:31:53.371 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-17 17:31:53.372 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-08-17 17:31:57.566 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2026-08-17 17:32:08.063 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
