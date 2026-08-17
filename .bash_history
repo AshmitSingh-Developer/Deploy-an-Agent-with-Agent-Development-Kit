@@ -33,3 +33,8 @@ git config --global user.name "AshmitSingh-Developer"
 git config --global user.email "ashmit25092001singh@gmail.com"
 git config --global user.name "AshmitSingh-Developer"
 git config --global user.email "ashmit25092001singh@gmail.com"
+git init
+git add .
+git commit -m "Initial commit from Google Cloud"
+git branch -M main
+git remote add origin https://github.com/AshmitSingh-Developer/Deploy-an-Agent-with-Agent-Development-Kit

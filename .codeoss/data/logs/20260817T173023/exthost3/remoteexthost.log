@@ -27,3 +27,4 @@
 2026-08-17 17:52:56.604 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
 2026-08-17 18:13:12.070 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
 2026-08-17 18:13:17.026 [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+2026-08-17 18:19:04.364 [warning] [Decorations] CAPPING events from decorations provider vscode.git 13340
